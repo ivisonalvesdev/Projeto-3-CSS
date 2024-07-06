@@ -6,5 +6,8 @@
 Criei esse porjeto totalmente responsivo para aprofundar meus conhecimentos nas tecnologias: <a href="">HTML</a> e <a  href="">CSS</a> </p>
 <img src="https://github.com/ivisonalvesdev/easy-shopping/blob/main/assets/desktop.png?raw=true">
 <br>
-<h3>Projeto totalmente responsivo, adaptado para varios tamanhos de tela</h3>
-<img src="
+<h3>Projeto totalmente responsivo, adaptado para varios tamanhos de tela.</h3>
+<br>
+<div align="center"> 
+<img src="https://github.com/ivisonalvesdev/easy-shopping/blob/main/assets/mobile.png?raw=true"/>
+</div>
